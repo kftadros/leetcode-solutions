@@ -3,7 +3,7 @@
 Solving 100+ LeetCode problems to master data structures and algorithms.
 
 ## Progress
-- Easy: 2/50
+- Easy: 3/50
 - Medium: 0/50
 - Hard: 0/20
 
@@ -18,6 +18,7 @@ Written in Python 3, sometimes C++
 easy/
 ├── two_sum.py
 ├── palindrome.cpp
+├── roman_to_integer.py
 └── ...
 medium/
 └── ...
